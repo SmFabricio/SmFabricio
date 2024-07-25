@@ -1,20 +1,30 @@
-![Banner](./images/Banner_QA_SmFabricio.png)
+![Banner](Banner_QA_SmFabricio.png)
+<div id="header" align="center">
+<h1>
+  ¡Hola! Soy Fabricio, bienvenido a mi perfil
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-## Hi there 👋
+---
+ <div id="header" align="left">
+
+### 🙋 Conoceme un poco
+- 👨‍💻 Apasionado por la tecnología, actualmente en transición de administración y marketing digital a QA Engineer.<img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRwcmgxaG41b3BnOXVtZ2J1eGxyamI1M3d3MDV4MHJmb2loOGZrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
+- 📈 En mi trayectoria profesional, he desarrollado sólidas habilidades en análisis de datos, estrategias de contenidos, administración de proyectos,comunicación, organización y trabajo en equipo.✍️📊
+- 🌱 Actualmente estoy completando un bootcamp tecnológico especializado en QA Engineer, donde estoy adquiriendo competencias en pruebas de software y aseguramiento de calidad.💻
+- 📖 Me apasiona entender y aprender sobre las últimas tendencias y prácticas, que impulsen mi crecimiento tanto profesional como personal.📚
+- 🔍 Busco nuevos retos como **QA** que me permitan aplicar mis habilidades en pruebas de software, para asegurar la calidad del producto/servicio que se ofrece.🌟
+- 📫¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Fabricio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabsuarez)
+ 
+ ---
+### ⚙️Lenguajes y herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=jira,androidstudio,figma,postman,pycharm,selenium,python,git,github,gmail,discord,mysql)](https://skillicons.dev)
 
 
+### 📊 Estadísticas
 
-<!--
-**SmFabricio/SmFabricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smfabricio&theme=dark&background=000000)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smfabricio&layout=compact&theme=vision-friendly-dark)](https://github.com/smfabricio/github-readme-stats)
