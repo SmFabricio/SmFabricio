@@ -1,4 +1,8 @@
+![Banner](./images/Banner_QA_SmFabricio.png)
+
 ## Hi there 👋
+
+
 
 <!--
 **SmFabricio/SmFabricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
