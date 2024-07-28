@@ -15,9 +15,13 @@
 - 🌱 Actualmente estoy completando un bootcamp tecnológico especializado en QA Engineer, donde estoy adquiriendo competencias en pruebas de software y aseguramiento de calidad.💻
 - 📖 Me apasiona entender y aprender sobre las últimas tendencias y prácticas, que impulsen mi crecimiento tanto profesional como personal.📚
 - 🔍 Busco nuevos retos como **QA** que me permitan aplicar mis habilidades en pruebas de software, para asegurar la calidad del producto/servicio que se ofrece.🌟
-- 📫¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Fabricio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabsuarez)
- 
- ---
+- 📫¿Quieres contactar conmigo? Escríbeme por cualquiera de estos medios:
+  - [![Linkedin Badge](https://img.shields.io/badge/-Fabricio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabsuarez)
+  - [![Gmail](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](mailto:suarez.m.leonardo@gmail.com) 
+  - [![](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.me/593963273898)
+
+---
+
 ### ⚙️Lenguajes y herramientas
 
 [![My Skills](https://skillicons.dev/icons?i=jira,androidstudio,figma,postman,pycharm,selenium,python,git,github,gmail,discord,mysql)](https://skillicons.dev)
