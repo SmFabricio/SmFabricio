@@ -18,7 +18,7 @@
 - 📫¿Quieres contactar conmigo? Escríbeme por cualquiera de estos medios:
   - [![Linkedin Badge](https://img.shields.io/badge/-Fabricio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabsuarez)
   - [![Gmail](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](mailto:suarez.m.leonardo@gmail.com) 
-  - [![](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.me/593963273898)
+  - [![](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.me/593984222745)
 
 ---
 
